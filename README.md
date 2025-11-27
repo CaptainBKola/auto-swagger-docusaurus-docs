@@ -16,14 +16,12 @@ It includes:
 
 This repository serves as a foundation for teams migrating from **Swagger UI** to a modern, flexible, documentation-driven platform.
 
-
-
 ## **Why This Migration?**
 
 Swagger is great for API exploration, but not ideal for:
 
 * Full developer documentation
-* Content organization
+* Content organisation
 * Versioning
 * Custom UI/UX
 * Integrating guides, tutorials, SDK docs
