@@ -1,5 +1,3 @@
----
-
 # **README.md**
 
 # **Swagger to Docusaurus API Documentation Migration**
