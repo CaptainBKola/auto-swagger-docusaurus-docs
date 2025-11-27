@@ -243,11 +243,4 @@ MIT License.
 
 ---
 
-If you want, I can also create:
 
-✔ A **GitHub Action** to automatically regenerate docs on every push
-✔ A **Docusaurus landing page**
-✔ A **sample Swagger file**
-✔ A **folder for SDK docs (Node, Python, Go)**
-
-Just tell me.
